@@ -1,7 +1,7 @@
 Dear Github,  
     I'm [private], a [private] of BUPT. It's nice to be able to use Github such a professional and efficient platform, and now I have a need to be very hopefully able to get Github's support and resolution.  
     I have read and understand GitHub's Guide to Filing a DMCA Notice.  
-    I created a repository called "integrate-service" two years ago, which was a middle tier project to prepare resources and publish them to kinds of endpoints, such as website. The problem is that the repository contains system configuration information of out lab's machine, thus existing huge security threat. Later found that after I deleted the repository, the user named AppSecAI-TEST completely forked my entire repository, and it still exists.  
+    I created a repository called "integrate-service" two years ago, which was a middle tier project to prepare resources and publish them to kinds of endpoints, such as website. The problem is that the repository contains system configuration information of out lab's machine, thus existing huge security threat. Later found that after I deleted the repository, the user named AppSecAI-TEST completely forked oky entire repository, and it still exists.  
     The following is Github's URL and Screenshots about my forked repository:  
 https://github.com/AppSecAI-TEST/integrate-service
     
